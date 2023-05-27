@@ -1,0 +1,14 @@
+Create tictaktoe
+
+Functional requirements :-
+1) Board with 9 grids
+2) Alternate X/O placements
+3) Diagonal, Horizontal and Vertical check for win.
+4) Win message
+5) Restart Option
+
+
+
+Future Scope :-
+1) Player Name Customization
+2) Algo for Computer as second player
